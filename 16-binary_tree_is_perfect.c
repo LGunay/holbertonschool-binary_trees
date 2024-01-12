@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_leaves - find count of binary tree leaves
+ * binary_tree_perfect - checked perfect
  *
  * @tree: binary tree
  *
